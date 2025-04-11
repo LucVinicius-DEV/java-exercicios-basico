@@ -21,6 +21,11 @@ Cada exercício está salvo em arquivos `.java` separados, nomeados de forma cla
 - `DuracaoJogo.java`:  
   Programa que calcula a duração de um jogo com base na hora inicial e final, considerando que o jogo pode atravessar a meia-noite (ex: iniciar às 22h e terminar às 6h do dia seguinte).
 
+  # Calculadora de Conta de Lanchonete - Java
+
+Este programa simples em Java simula o sistema de pedidos de uma lanchonete. Com base em um código de item e na quantidade informada pelo usuário, ele calcula o valor total da conta utilizando `switch` e boas práticas de entrada e saída.
+
+
 ## Como executar os códigos
 
 1. Instale o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) na sua máquina (se ainda não tiver).
