@@ -18,6 +18,9 @@ Cada exercício está salvo em arquivos `.java` separados, nomeados de forma cla
 - `NumerosMultiplos.java`:  
   Programa que verifica se dois números são múltiplos entre si (ou seja, se um é divisível pelo outro).
 
+- `DuracaoJogo.java`:  
+  Programa que calcula a duração de um jogo com base na hora inicial e final, considerando que o jogo pode atravessar a meia-noite (ex: iniciar às 22h e terminar às 6h do dia seguinte).
+
 ## Como executar os códigos
 
 1. Instale o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) na sua máquina (se ainda não tiver).
