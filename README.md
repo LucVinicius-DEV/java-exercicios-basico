@@ -15,6 +15,9 @@ Cada exercício está salvo em arquivos `.java` separados, nomeados de forma cla
 - `NumeroParImpar.java`:  
   Programa que verifica se o número digitado é par ou ímpar utilizando o operador de módulo (`%`).
 
+- `NumerosMultiplos.java`:  
+  Programa que verifica se dois números são múltiplos entre si (ou seja, se um é divisível pelo outro).
+
 ## Como executar os códigos
 
 1. Instale o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) na sua máquina (se ainda não tiver).
