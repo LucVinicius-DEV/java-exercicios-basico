@@ -25,10 +25,5 @@ Cada exercício está salvo em arquivos `.java` separados, nomeados de forma cla
   Programa que simula o sistema de pedidos de uma lanchonete.  
   Com base em um código de item e na quantidade informada pelo usuário, ele calcula o valor total da conta utilizando `switch` e boas práticas de entrada e saída.
 
-## Como executar os códigos
-
-1. Instale o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) na sua máquina (se ainda não tiver).
-2. Compile o arquivo desejado usando o terminal:
-
-   ```bash
-   javac NomeDoArquivo.java
+- `IntervaloValores.java`:  
+  Programa que lê um valor decimal e informa em qual dos
