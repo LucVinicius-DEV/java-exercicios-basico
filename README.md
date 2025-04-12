@@ -26,4 +26,30 @@ Cada exercício está salvo em arquivos `.java` separados, nomeados de forma cla
   Com base em um código de item e na quantidade informada pelo usuário, ele calcula o valor total da conta utilizando `switch` e boas práticas de entrada e saída.
 
 - `IntervaloValores.java`:  
-  Programa que lê um valor decimal e informa em qual dos
+  Programa que lê um valor decimal e informa em qual dos intervalos definidos ele se encontra:
+  - [0,25]
+  - (25,50]
+  - (50,75]
+  - (75,100]  
+  Caso esteja fora desses intervalos, retorna a mensagem "Fora de intervalo".
+
+- `IntervaloNumerico.java`:  
+  Programa que identifica em qual dos seguintes intervalos se encontra um número informado pelo usuário: [0,25], (25,50], (50,75], (75,100].  
+  Caso o valor esteja fora desses intervalos, imprime "Fora de intervalo".
+
+- `ImpostoRendaLisarb.java`:  
+  Programa que calcula o valor do imposto de renda a ser pago com base no salário do usuário, seguindo a tabela progressiva do país fictício Lisarb.  
+  Faixas:  
+  - Até R$2000.00: isento  
+  - R$2000.01 até R$3000.00: 8%  
+  - R$3000.01 até R$4500.00: 18%  
+  - Acima de R$4500.00: 28%  
+  O cálculo é feito progressivamente conforme o valor excedente de cada faixa.
+
+## Como executar os códigos
+
+1. Instale o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) na sua máquina (se ainda não tiver).
+2. Compile o arquivo desejado usando o terminal:
+
+   ```bash
+   javac NomeDoArquivo.java
